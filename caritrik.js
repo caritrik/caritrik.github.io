@@ -1,6 +1,6 @@
 
 function myFunction() {
-  var str = "web";
+  var str = "ungu";
   var result = str.fontcolor("green");
   document.getElementById("demo").innerHTML = result;
 }
