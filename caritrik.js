@@ -1,6 +1,6 @@
 
 function myFunction() {
-  var str = "Indonesia";
-  var result = str.fontcolor("red");
+  var str = "web programming";
+  var result = str.fontcolor("yellow");
   document.getElementById("demo").innerHTML = result;
 }
