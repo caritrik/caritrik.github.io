@@ -1,6 +1,6 @@
 
 function myFunction() {
-  var str = "caritrik";
-  var result = str.fontcolor("red");
+  var str = "idhostinger";
+  var result = str.fontcolor("green");
   document.getElementById("demo").innerHTML = result;
 }
