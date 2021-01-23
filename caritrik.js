@@ -1,6 +1,6 @@
 
 function myFunction() {
-  var str = "ungu";
-  var result = str.fontcolor("green");
+  var str = "Indonesia";
+  var result = str.fontcolor("red");
   document.getElementById("demo").innerHTML = result;
 }
